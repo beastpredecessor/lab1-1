@@ -1,3 +1,5 @@
+// author shenxuanyi2020@163.com
+// collaborator xjs5065@psu.edu
 #include <stdio.h>
 #include <readline/readline.h>
 #include <stdlib.h>
